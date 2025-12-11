@@ -23,7 +23,7 @@ const values = [
 const Lenses = () => {
   return (
 
-    <Box sx={{ px: { xs: 2, sm: 3, md: 4 }, backgroundColor: "rgb(12,15,26)", height: { xs: "705vh", md: "375vh", xl: "225vh" } }}>
+    <Box sx={{ px: { xs: 2, sm: 3, md: 4 }, backgroundColor: "rgb(12,15,26)", height: { xs: "auto", md: "375vh", xl: "225vh" } }}>
 
       <Typography sx={{ color: "rgb(67,24,209)", textAlign: "center", pt: 5 }}>
         OUR COLLECTION

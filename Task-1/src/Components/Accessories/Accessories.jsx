@@ -14,7 +14,7 @@ const Accessories = () => {
     <Box
       sx={{
         background: "linear-gradient(rgb(61,16,85),rgb(10,10,22))",
-        height: { xs: "auto", md: "100vh", sm: "80vh", xl: "90vh" },
+        height: { xs: "auto", md: "auto", sm: "auto", xl: "90vh" },
         pt: 5,
         pb: { xs: 5, md: 0 },
       }}
