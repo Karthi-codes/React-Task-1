@@ -12,7 +12,7 @@ const Home = () => {
                 alt="Photo"
                 sx={{
                     width: "100%",
-                    height: { xs: "auto" ,sm:"100vh",md:"120vh",xl:"105vh"},
+                    height: { xs: "100vh" ,sm:"100vh",md:"120vh",xl:"105vh"},
                     objectFit: "cover",
                 }}
             ></Box>

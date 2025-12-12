@@ -26,6 +26,7 @@ const Navbar = () => {
                 sx={{
                     fontWeight: "bold",
                     fontSize: { xs: "20px", sm: "24px", md: "28px" },
+                    pl:{md:7}
                 }}
             >
                 Logo
